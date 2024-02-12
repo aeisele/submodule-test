@@ -3,3 +3,6 @@
 	url = https://github.com/aeisele/gh-submodule.git
 
 
+[submodule "submodule"]
+	path = submodule
+	url = https://gitlab.com/aetest2/submodule.git
